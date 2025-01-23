@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rosssgill
-- 👀 I’m interested in: Full Stack and Frontend Development
-- 🌱 I’m currently learning: React
+- 👋 Hi, I’m Ross
+- 🧑‍💻 I'm currently working as a Software Engineer @ [Perlego](https://www.perlego.com/)
 - 📫 How to reach me: rossstephensongill@gmail.com
 
 <!---
